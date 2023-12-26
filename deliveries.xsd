@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns="urn:myspace:deliveries" xmlns:xs="http://www.w3.org/2001/XMLSchema" targetNamespace="urn:myspace:deliveries" elementFormDefault="qualified" attributeFormDefault="unqualified">
+ <xs:element name="deliveries">
+     <xs:complexType>
+         <xs:sequence maxOccurs="unbounded">
+             <xs:element ref="article"/>
+         </xs:sequence>
+     </xs:complexType>
+ </xs:element>
+ <xs:element name="article">
+     <xs:complexType>
+         <xs:all>
+             <xs:element name="name" type="xs:string"/>
+             <xs:element name="price" type="price_type"/>
+             <xs:element name="supplier" type="xs:string"/>
+         </xs:all>
+         <xs:attribute name="id" type="xs:integer" use="required"/>
+     </xs:complexType>
+ </xs:element>
+ <xs:complexType name="price_type">
+     <xs:simpleContent>
+         <xs:extension base="xs:double">
+             <xs:attribute name="unitprice" type="xs:boolean"/>
+         </xs:extension>
+     </xs:simpleContent>
+  </xs:complexType>
+</xs:schema>
