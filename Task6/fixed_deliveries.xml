@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deliveries xmlns="urn:myspace:deliveries" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:myspace:deliveries ../deliveries.xsd">
+   <article id='3526'>
+      <name>apple</name>
+      <price>8.97</price>
+      <supplier>Krause Inc.</supplier>
+   </article>
+   <article id='7866'>
+      <name>cherries</name>
+      <price>10.45</price>
+      <supplier>Helbig Inc.</supplier>
+   </article>
+   <article id='4444'>
+      <name>apple</name>
+      <price>12.67</price>
+      <supplier>Liebig Inc.</supplier>
+   </article>
+   <article id='7868'>
+      <name>cabbage</name>
+      <price>3.20</price>
+      <supplier>Hoeller Inc.</supplier>
+   </article>
+   <article id='3245'>
+      <name>bpineapple</name>
+      <price>15.67</price>
+      <supplier>Hoeller Inc.</supplier>
+   </article>
+   <article id='6745'>
+      <name>cabbage</name>
+      <price>3.10</price>
+      <supplier>Reinhardt Inc.</supplier>
+   </article>
+   <article id='7789'>
+      <name>pineapple</name>
+      <price>8.60</price>
+      <supplier>Richard Inc.</supplier>
+   </article>
+   <article id='38462'>
+      <name>cherries</name>
+      <price>17.67</price>
+      <supplier>Krause Inc.</supplier>
+   </article>
+   <article id='18632'>
+      <name>cherries</name>
+      <price>16.45</price>
+      <supplier>Hoeller Inc.</supplier>
+   </article>
+   <article id='25454'>
+      <name>cherries</name>
+      <price>12.45</price>
+      <supplier>Richard Inc.</supplier>
+   </article>
+   <article id='78832'>
+      <name>apple</name>
+      <price>9.54</price>
+      <supplier>Mertes Inc.</supplier>
+   </article>
+</deliveries>

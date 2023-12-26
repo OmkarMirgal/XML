@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deliveries xmlns="urn:myspace:deliveries" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:myspace:deliveries ../deliveries.xsd">
+<article id='7866'>
+   <name>cherries</name>
+   <price>17.67</price>
+   <supplier>Krause Inc.</supplier>
+</article>
+<article id='3526'>
+   <name>apple</name>
+   <price>9.54</price>
+   <supplier>Mertes Inc.</supplier>
+</article>
+<article id='7866'>
+   <name>cherries</name>
+   <price>16.45</price>
+   <supplier>Hoeller Inc.</supplier>
+</article>
+<article id='7866'>
+   <name>cherries</name>
+   <price>12.45</price>
+   <supplier>Richard Inc.</supplier>
+</article>
+</deliveries>
