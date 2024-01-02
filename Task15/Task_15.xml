@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<?xml-stylesheet type="text/xsl" href="Task_15.xsl"?>
+<article title="Rockville opens new Library" xmlns="urn:myspace:Article" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:myspace:Article Task_15.xsd">
+  <text style="h1">Rockville opens new Library</text>
+  <text style="p">On saturday the major of Rockville officially opened the city's new library.</text>
+  <text style="hr"></text>
+  <text style="h2">3 year construction finally finished</text>
+  <text style="p">The building, which had been under construction for 3 years had been recently finished and now houses the city's new library.</text>
+  <text style="blockquote">This is a huge success for Rockville.</text>
+  <text style="p">The major called the opening of the library a huge success during the opening ceremony.</text>
+  <text style="i">Written by Joice A. Price, leading journalist of the Rockville Daily since 1967.</text>
+</article>

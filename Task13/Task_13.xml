@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="Task_13.xsl"?>
+<evaluation>
+    <candidate>
+        <name>Peter</name>
+        <points>67</points>
+    </candidate>
+    <candidate>
+        <name>Karl</name>
+        <points>87</points>
+    </candidate>
+    <candidate>
+        <name>Anita</name>
+        <points>36</points>
+    </candidate>
+    <candidate>
+        <name>Rosi</name>
+        <points>67</points>
+    </candidate>
+    <candidate>
+        <name>Heiner</name>
+        <points>50</points>
+    </candidate>
+    <candidate>
+        <name>Paul</name>
+        <points>45</points>
+    </candidate>
+</evaluation>

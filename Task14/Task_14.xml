@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="Task_14.xsl"?>
+<table>
+<row><column>Reiner</column><column>Liebig</column><column>52612</column><column>Leipzig</column></row>
+<row><column>Andreas</column><column>Schreiner</column><column>8393</column><column>Berlin</column></row>
+<row><column>Anita</column><column>Otter</column><column>73283</column><column>Bamberg</column></row>
+<row><column>Helmut</column><column>Meinhold</column><column>7383</column><column>Bremen</column></row>
+<row><column>Jahn</column><column>Schmidt</column><column>7383</column><column>Berlin</column></row>
+<row><column>Thomas</column><column>Riemer</column><column>8292</column><column>Rostock</column></row>
+</table>

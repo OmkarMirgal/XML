@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="Task_12.xsl"?>
+<numbers xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <number value="8"/>
+    <number value="3"/>
+    <number value="13"/>
+    <number value="2"/>
+    <number value="9"/>
+</numbers>

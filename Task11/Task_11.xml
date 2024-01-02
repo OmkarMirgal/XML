@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="Task_11.xsl"?>
+<zoo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:myspace:vsrzoo" name="vsr zoo">
+    <zoo_animal xsi:type="goose_ct" id="animal1" can_fly="false">
+        <name>erna</name>
+        <age>2</age>
+        <slaughter_weight>1500</slaughter_weight>
+    </zoo_animal>
+    <zoo_animal id="animal2" xsi:type="horse_ct" white_horse="false">
+        <name>peter</name>
+        <age>4</age>
+        <gestation_period>11</gestation_period>
+    </zoo_animal>
+    <zoo_animal id="animal3" xsi:type="cat_ct">
+      <name>minka</name>
+      <age>3</age>
+      <gestation_period>2</gestation_period>
+      <fur_color>black</fur_color>
+    </zoo_animal>
+    <zoo_animal id="animal4" xsi:type="starling_ct" ringed="true" can_fly="true">
+        <name>piere</name>
+        <age>2</age>
+    </zoo_animal>
+    <zoo_keeper name="meinhold">
+        <cares_for animal="animal1"/>
+        <cares_for animal="animal2"/>
+    </zoo_keeper>
+    <zoo_keeper name="guntram">
+        <cares_for animal="animal3"/>
+        <cares_for animal="animal4"/>
+    </zoo_keeper>
+    <dwelling xsi:type="building_ct" name="bird house">
+        <houses animal="animal2"/>
+        <houses animal="animal3"/>
+        <houses animal="animal4"/>
+        <area>230.78</area>
+    </dwelling>
+    <dwelling xsi:type="pond_ct" name="big pond">
+        <houses animal="animal1"/>
+        <depth>2.3</depth>
+    </dwelling>
+</zoo>

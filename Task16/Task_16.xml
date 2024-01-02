@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<?xml-stylesheet type="text/xsl" href="Task_16.xsl"?>
+<store id="Tool-Storage" date="19.6.2002" place="Chemnitz">
+  <house id="hard to find">
+    <shelf id="R1" responsible="Meier">
+        <article nr="1265" name="Wumme" value="21.45" condition="faulty"/>
+        <article nr="5262" name="Tischbrecher" value="123.16" condition="faulty"/>
+        <article nr="8373" name="Brabeltasche" value="17.48" condition="OK">
+            Total verdreckt
+        </article>
+        <article nr="0235" name="Kleinzerstörer" value="21.45" condition="irreparable"/>
+    </shelf>
+    <shelf id="R2" responsible="Müller">
+        <article nr="4152" name="Halbmotor" value="17.48" condition="junk"/>
+        <article nr="5526" name="Brechdrescher" value="123.16" condition="OK">
+            unusable
+        </article>
+        <article nr="6272" name="Ramme" value="21.45" condition="OK">
+            Total verdreckt
+        </article>
+        <article nr="7728" name="Kalbsknacker" value="21.45" condition="irreparable"/>
+    </shelf>
+  </house>
+  <house id="front">
+    <shelf id="front shelf">
+        <article nr="5353" name="Süssraspler" value="17.48" condition="OK"/>
+        <article nr="4132" name="Wurstvernichter" value="21.45" condition="faulty"/>
+        <article nr="4425" name="Gasbeschmierer" value="123.16" condition="irreparable">
+            Total verdreckt
+        </article>
+        <article nr="6672" name="Löbelkarre" value="7.20" condition="faulty"/>
+    </shelf>
+    <shelf id="back shelf" responsible="Liebig">
+        <article nr="7262" name="Kichererbse" value="21.45" condition="junk"/>
+        <article nr="7282" name="Sabbelkarre" value="7.20" condition="irreparable">
+            unusable
+        </article>
+        <article nr="5226" name="Schlapperkanne" value="123.16" condition="OK">
+            Total verdreckt
+        </article>
+        <article nr="8573" name="Sesselknacker" value="21.45" condition="faulty"/>
+    </shelf>
+  </house>
+  <house id="rear">
+    <shelf id="Holzshelf" responsible="Riemann">
+        <article nr="8715" name="Rüssel" value="7.20" condition="faulty"/>
+        <article nr="9201" name="Wegsauger" value="21.45" condition="faulty"/>
+        <article nr="5371" name="Knalltüte" value="123.16" condition="OK">
+            unauffindbar
+        </article>
+        <article nr="4252" name="Atomöffner" value="123.16" condition="irreparable"/>
+    </shelf>
+    <shelf id="Pappshelf" responsible="Waldung">
+        <article nr="5362" name="Schloßbrecher" value="21.45" condition="junk"/>
+        <article nr="7474" name="Tischdriller" value="17.48" condition="OK">
+            sehr schwer
+        </article>
+        <article nr="7782" name="Ramme" value="21.45" condition="OK"/>
+        <article nr="5542" name="Kalbsknacker" value="7.20" condition="irreparable"/>
+    </shelf>
+  </house>
+</store>
