@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns="urn:myspace:Book" targetNamespace="urn:myspace:Book" elementFormDefault="qualified">
+  <xs:element name="book" type="chapter_ct"/>
+
+  <xs:complexType name="chapter_ct">
+    <xs:choice maxOccurs="unbounded">
+      <xs:element name="text" type="xs:string"/>
+      <xs:element name="chapter" type="chapter_ct"/>
+    </xs:choice>
+    <xs:attribute name="title" use="required"/>
+  </xs:complexType>
+</xs:schema>

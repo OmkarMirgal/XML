@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<?xml-stylesheet type="text/xsl" href="Task_17.xsl"?>
+<book title="The Book" xmlns="urn:myspace:Book" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:myspace:Book Task_17.xsd">
+  <chapter title="Introduction">
+    <text>Lorem ipsum dolor sit amet, consectetur adipiscing elit,</text>
+    <text>sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</text>
+  </chapter>
+  <chapter title="The Two Steps">
+    <text>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</text>
+    <chapter title="First Step">
+      <text>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</text>
+      <chapter title="Stumbling">
+        <text>Excepteur sint occaecat cupidatat non proident,</text>
+        <text>sunt in culpa qui officia deserunt mollit anim id est laborum.</text>
+      </chapter>
+    </chapter>
+    <chapter title="Second Step">
+      <text>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium,</text>
+      <text>totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.</text>
+    </chapter>
+  </chapter>
+  <chapter title="Conclusion">
+    <text>Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit,</text>
+    <text>sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt.</text>
+  </chapter>
+</book>
